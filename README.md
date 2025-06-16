@@ -74,6 +74,12 @@
 # 의존성 설치
 npm install
 
+# .env 추가(아래의 형식 참고)
+REACT_APP_TOUR_API_KEY=공공데이터 포털 api 키
+REACT_APP_KAKAO_API_KEY=카카오 개발자 api 키
+REACT_APP_RECAPTCHA_SITE_KEY=RECAPTCHA api 키
+GENERATE_SOURCEMAP=false
+
 # 개발 서버 실행
 npm start
 
