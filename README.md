@@ -96,79 +96,21 @@ npm test
 
 ```
 travelblog_front/
-├── public/
-│      ├── css
-│      ├── data
-│      ├── flags-iso
-│      ├── fonts
-│      ├── images
-│      ├── index.html
-│      └── robots.txt
-├── src/
-│    ├── admincomp/
-│    │       ├── AdminGuestBookList.jsx
-│    │       ├── AdminPhotoList.jsx
-│    │       ├── AdminTravelForm.jsx
-│    │       └── AdminTravelList.jsx
-│    ├── api/ 
-│    │    ├── area.js
-│    │    ├── contentTypes.js
-│    │    ├── convertToHtml.js
-│    │    ├── detail.js
-│    │    └── regions.js
-│    ├── components/ 
-│    │        ├── travels
-│    │        │      ├── AreaBar.jsx
-│    │        │      ├── EventCalendar.jsx
-│    │        │      ├── GuestBookItem.jsx
-│    │        │      ├── MapView.jsx
-│    │        │      ├── PetFilterBar.jsx
-│    │        │      ├── PlaceCard.jsx
-│    │        │      └── SearchBar.jsx
-│    │        ├── AsideNav.jsx
-│    │        ├── Copyright.jsx
-│    │        ├── FooterMain.jsx
-│    │        ├── getFlagByNationName.js
-│    │        ├── GuestBook.jsx
-│    │        ├── GuestBookList.jsx
-│    │        ├── Hero.jsx
-│    │        ├── Icons.jsx
-│    │        ├── KakaoScript.jsx
-│    │        ├── LoginModal.jsx
-│    │        ├── LogoutModal.jsx
-│    │        ├── MainContext.jsx
-│    │        ├── Menu.jsx
-│    │        ├── RightSide.jsx
-│    │        ├── Script.jsx
-│    │        ├── ScrollTop.jsx
-│    │        └── TravelCard.jsx
-│    ├── context/
-│    │      ├── AuthContext.jsx
-│    │      └── NationContext.jsx
-│    ├── css/ 
-│    ├── pages/ 
-│    │     ├── travels
-│    │     │     ├── AreaList.jsx
-│    │     │     └── DetailView.jsx
-│    │     ├── AboutMe.jsx
-│    │     ├── Admin.jsx
-│    │     ├── ContentView.jsx
-│    │     ├── Footer.jsx
-│    │     ├── Header.jsx
-│    │     ├── List.jsx
-│    │     ├── Main.jsx
-│    │     └── Photos.jsx
-│    ├── routes/
-│    │     └── AdminRoute.jsx
-│    ├── App.js
-│    ├── App.test.js
-│    ├── index.js
-│    └── setupTests.js
-├── .gitignore
-├── package-lock.json
-├── package.json
-├── README.md
-└── yarn.lock
+├── public/                # 정적 리소스 (css, 이미지, 폰트, 데이터 등) 및 HTML 파일
+├── src/                   # 소스 코드
+│    ├── admincomp/        # 관리자 페이지 컴포넌트 모음
+│    ├── api/              # API 호출 및 데이터 처리 관련 함수들
+│    ├── components/       # 공통 UI 컴포넌트 및 여행 관련 하위 컴포넌트
+│    ├── context/          # React Context API를 활용한 상태 관리
+│    ├── css/              # 스타일 시트
+│    ├── pages/            # 페이지 단위 컴포넌트 (메인, 어드민, 여행 상세 등)
+│    ├── routes/           # 라우팅 설정 (관리자 전용 라우트 등)
+│    ├── App.js            # 최상위 앱 컴포넌트
+│    ├── index.js          # 진입점 (렌더링 및 초기화)
+│    └── 기타 테스트 관련 파일
+├── package.json           # 프로젝트 설정 및 의존성 정보
+├── README.md              # 프로젝트 설명서
+└── .gitignore             # Git 무시 파일 목록
 ```
 
 ---
