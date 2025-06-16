@@ -1,0 +1,13 @@
+*{box-sizing: border-box;}
+body{
+    margin: 0;
+    font-family: onGothic, sans-serif;
+}
+a, a:hover{
+    text-decoration: none;
+    color: #333;
+}
+.eng-title{
+    font-family: "Love Light", cursive;
+    font-weight: 400;
+}

@@ -1,0 +1,2442 @@
+[
+  {
+    "iso2": "GH",
+    "iso3": "GHA",
+    "isonumber": 288,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Ghana",
+    "ko": "가나"
+  },
+  {
+    "iso2": "GA",
+    "iso3": "GAB",
+    "isonumber": 266,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Gabon",
+    "ko": "가봉"
+  },
+  {
+    "iso2": "GY",
+    "iso3": "GUY",
+    "isonumber": 328,
+    "encont": "America",
+    "kocont": "남아메리카",
+    "ko2cont": "미주",
+    "en": "Guyana",
+    "ko": "가이아나"
+  },
+  {
+    "iso2": "GM",
+    "iso3": "GMB",
+    "isonumber": 270,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Gambia",
+    "ko": "감비아"
+  },
+  {
+    "iso2": "GG",
+    "iso3": "GGY",
+    "isonumber": 831,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Bailiwick of Guernsey",
+    "ko": "건지"
+  },
+  {
+    "iso2": "GP",
+    "iso3": "GLP",
+    "isonumber": 312,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "Guadeloupe",
+    "ko": "과들루프"
+  },
+  {
+    "iso2": "GT",
+    "iso3": "GTM",
+    "isonumber": 320,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "Guatemala",
+    "ko": "과테말라"
+  },
+  {
+    "iso2": "GU",
+    "iso3": "GUM",
+    "isonumber": 316,
+    "encont": "Asia",
+    "kocont": "호주(오세아니아)",
+    "ko2cont": "아주",
+    "en": "Guam",
+    "ko": "괌"
+  },
+  {
+    "iso2": "VA",
+    "iso3": "VAT",
+    "isonumber": 336,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Vatican",
+    "ko": "교황청"
+  },
+  {
+    "iso2": "GD",
+    "iso3": "GRD",
+    "isonumber": 308,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "Grenada",
+    "ko": "그레나다"
+  },
+  {
+    "iso2": "GR",
+    "iso3": "GRC",
+    "isonumber": 300,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Greece",
+    "ko": "그리스"
+  },
+  {
+    "iso2": "GL",
+    "iso3": "GRL",
+    "isonumber": 304,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "Greenland",
+    "ko": "그린란드"
+  },
+  {
+    "iso2": "GN",
+    "iso3": "GIN",
+    "isonumber": 324,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Guinea",
+    "ko": "기니"
+  },
+  {
+    "iso2": "GW",
+    "iso3": "GNB",
+    "isonumber": 624,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Guinea-Bissau",
+    "ko": "기니비사우"
+  },
+  {
+    "iso2": "NA",
+    "iso3": "NAM",
+    "isonumber": 516,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Namibia",
+    "ko": "나미비아"
+  },
+  {
+    "iso2": "NR",
+    "iso3": "NRU",
+    "isonumber": 520,
+    "encont": "Asia",
+    "kocont": "호주(오세아니아)",
+    "ko2cont": "아주",
+    "en": "Nauru",
+    "ko": "나우루"
+  },
+  {
+    "iso2": "NG",
+    "iso3": "NGA",
+    "isonumber": 566,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Nigeria",
+    "ko": "나이지리아"
+  },
+  {
+    "iso2": "SS",
+    "iso3": "SSD",
+    "isonumber": 728,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "South Sudan",
+    "ko": "남수단"
+  },
+  {
+    "iso2": "ZA",
+    "iso3": "ZAF",
+    "isonumber": 710,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "South Africa",
+    "ko": "남아프리카공화국"
+  },
+  {
+    "iso2": "NL",
+    "iso3": "NLD",
+    "isonumber": 528,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Netherlands",
+    "ko": "네덜란드"
+  },
+  {
+    "iso2": "AN",
+    "iso3": "ANT",
+    "isonumber": 530,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "Netherlands Antilles",
+    "ko": "네덜란드령 안틸레스"
+  },
+  {
+    "iso2": "NP",
+    "iso3": "NPL",
+    "isonumber": 524,
+    "encont": "Asia",
+    "kocont": "아시아",
+    "ko2cont": "아주",
+    "en": "Nepal",
+    "ko": "네팔연방"
+  },
+  {
+    "iso2": "NO",
+    "iso3": "NOR",
+    "isonumber": 578,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Norway",
+    "ko": "노르웨이"
+  },
+  {
+    "iso2": "NF",
+    "iso3": "NFK",
+    "isonumber": 574,
+    "encont": "Australia(Oceania)",
+    "kocont": "호주(오세아니아)",
+    "ko2cont": "호주(오세아니아)",
+    "en": "Norfolk Island",
+    "ko": "노퍽섬"
+  },
+  {
+    "iso2": "NC",
+    "iso3": "NCL",
+    "isonumber": 540,
+    "encont": "Asia",
+    "kocont": "호주(오세아니아)",
+    "ko2cont": "아주",
+    "en": "New Caledonia",
+    "ko": "뉴 칼레도니아"
+  },
+  {
+    "iso2": "NZ",
+    "iso3": "NZL",
+    "isonumber": 554,
+    "encont": "Asia",
+    "kocont": "호주(오세아니아)",
+    "ko2cont": "아주",
+    "en": "New Zealand",
+    "ko": "뉴질랜드"
+  },
+  {
+    "iso2": "NU",
+    "iso3": "NIU",
+    "isonumber": 570,
+    "encont": "America",
+    "kocont": "호주(오세아니아)",
+    "ko2cont": "미주",
+    "en": "Niue",
+    "ko": "니우에"
+  },
+  {
+    "iso2": "NE",
+    "iso3": "NER",
+    "isonumber": 562,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Niger",
+    "ko": "니제르"
+  },
+  {
+    "iso2": "NI",
+    "iso3": "NIC",
+    "isonumber": 558,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "Nicaragua",
+    "ko": "니카라과"
+  },
+  {
+    "iso2": "TW",
+    "iso3": "TWN",
+    "isonumber": 158,
+    "encont": "Asia",
+    "kocont": "아시아",
+    "ko2cont": "아주",
+    "en": "Taiwan",
+    "ko": "대만"
+  },
+  {
+    "iso2": "KR",
+    "iso3": "KOR",
+    "isonumber": 410,
+    "encont": "Asia",
+    "kocont": "아시아",
+    "ko2cont": "아시아",
+    "en": "Korea",
+    "ko": "대한민국"
+  },
+  {
+    "iso2": "DK",
+    "iso3": "DNK",
+    "isonumber": 208,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Denmark",
+    "ko": "덴마크"
+  },
+  {
+    "iso2": "DO",
+    "iso3": "DOM",
+    "isonumber": 214,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "Dominican Republic",
+    "ko": "도미니카공화국"
+  },
+  {
+    "iso2": "DM",
+    "iso3": "DMA",
+    "isonumber": 212,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "Dominica",
+    "ko": "도미니카연방"
+  },
+  {
+    "iso2": "DE",
+    "iso3": "DEU",
+    "isonumber": 276,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Germany",
+    "ko": "독일"
+  },
+  {
+    "iso2": "TL",
+    "iso3": "TLS",
+    "isonumber": 626,
+    "encont": "Asia",
+    "kocont": "아시아",
+    "ko2cont": "아주",
+    "en": "Timor-Leste",
+    "ko": "동티모르"
+  },
+  {
+    "iso2": "LA",
+    "iso3": "LAO",
+    "isonumber": 418,
+    "encont": "Asia",
+    "kocont": "아시아",
+    "ko2cont": "아주",
+    "en": "Laos",
+    "ko": "라오스"
+  },
+  {
+    "iso2": "LR",
+    "iso3": "LBR",
+    "isonumber": 430,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Liberia",
+    "ko": "라이베리아"
+  },
+  {
+    "iso2": "LV",
+    "iso3": "LVA",
+    "isonumber": 428,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Latvia",
+    "ko": "라트비아"
+  },
+  {
+    "iso2": "RU",
+    "iso3": "RUS",
+    "isonumber": 643,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Russia",
+    "ko": "러시아"
+  },
+  {
+    "iso2": "LB",
+    "iso3": "LBN",
+    "isonumber": 422,
+    "encont": "Middle East",
+    "kocont": "아시아",
+    "ko2cont": "중동",
+    "en": "Lebanon",
+    "ko": "레바논"
+  },
+  {
+    "iso2": "LS",
+    "iso3": "LSO",
+    "isonumber": 426,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Lesotho",
+    "ko": "레소토"
+  },
+  {
+    "iso2": "RE",
+    "iso3": "REU",
+    "isonumber": 638,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Reunion",
+    "ko": "레위니옹"
+  },
+  {
+    "iso2": "RO",
+    "iso3": "ROU",
+    "isonumber": 642,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Romania",
+    "ko": "루마니아"
+  },
+  {
+    "iso2": "LU",
+    "iso3": "LUX",
+    "isonumber": 442,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Luxembourg",
+    "ko": "룩셈부르크"
+  },
+  {
+    "iso2": "RW",
+    "iso3": "RWA",
+    "isonumber": 646,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Rwanda",
+    "ko": "르완다"
+  },
+  {
+    "iso2": "LY",
+    "iso3": "LBY",
+    "isonumber": 434,
+    "encont": "Middle East",
+    "kocont": "아프리카",
+    "ko2cont": "중동",
+    "en": "Libya",
+    "ko": "리비아"
+  },
+  {
+    "iso2": "LT",
+    "iso3": "LTU",
+    "isonumber": 440,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Lithuania",
+    "ko": "리투아니아"
+  },
+  {
+    "iso2": "LI",
+    "iso3": "LIE",
+    "isonumber": 438,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Liechtenstein",
+    "ko": "리히텐슈타인"
+  },
+  {
+    "iso2": "MG",
+    "iso3": "MDG",
+    "isonumber": 450,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Madagascar",
+    "ko": "마다가스카르"
+  },
+  {
+    "iso2": "MQ",
+    "iso3": "MTQ",
+    "isonumber": 474,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "Martinique",
+    "ko": "마르티니크"
+  },
+  {
+    "iso2": "MH",
+    "iso3": "MHL",
+    "isonumber": 584,
+    "encont": "Asia",
+    "kocont": "호주(오세아니아)",
+    "ko2cont": "아주",
+    "en": "Marshall Islands",
+    "ko": "마셜제도"
+  },
+  {
+    "iso2": "YT",
+    "iso3": "MYT",
+    "isonumber": 175,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Mayotte",
+    "ko": "마요트"
+  },
+  {
+    "iso2": "FM",
+    "iso3": "FSM",
+    "isonumber": 583,
+    "encont": "Asia",
+    "kocont": "호주(오세아니아)",
+    "ko2cont": "아주",
+    "en": "Federated States of Micronesia",
+    "ko": "마이크로네시아연방"
+  },
+  {
+    "iso2": "MO",
+    "iso3": "MAC",
+    "isonumber": 446,
+    "encont": "Asia",
+    "kocont": "아시아",
+    "ko2cont": "아시아",
+    "en": "Macao",
+    "ko": "마카오"
+  },
+  {
+    "iso2": "MW",
+    "iso3": "MWI",
+    "isonumber": 454,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Malawi",
+    "ko": "말라위"
+  },
+  {
+    "iso2": "MY",
+    "iso3": "MYS",
+    "isonumber": 458,
+    "encont": "Asia",
+    "kocont": "아시아",
+    "ko2cont": "아주",
+    "en": "Malaysia",
+    "ko": "말레이시아"
+  },
+  {
+    "iso2": "ML",
+    "iso3": "MLI",
+    "isonumber": 466,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Mali",
+    "ko": "말리"
+  },
+  {
+    "iso2": "IM",
+    "iso3": "IMN",
+    "isonumber": 833,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Isle of Man",
+    "ko": "맨 섬"
+  },
+  {
+    "iso2": "MX",
+    "iso3": "MEX",
+    "isonumber": 484,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "Mexico",
+    "ko": "멕시코"
+  },
+  {
+    "iso2": "MC",
+    "iso3": "MCO",
+    "isonumber": 492,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Monaco",
+    "ko": "모나코"
+  },
+  {
+    "iso2": "MA",
+    "iso3": "MAR",
+    "isonumber": 504,
+    "encont": "Middle East",
+    "kocont": "아프리카",
+    "ko2cont": "중동",
+    "en": "Morocco",
+    "ko": "모로코"
+  },
+  {
+    "iso2": "MU",
+    "iso3": "MUS",
+    "isonumber": 480,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Mauritius",
+    "ko": "모리셔스"
+  },
+  {
+    "iso2": "MR",
+    "iso3": "MRT",
+    "isonumber": 478,
+    "encont": "Middle East",
+    "kocont": "아프리카",
+    "ko2cont": "중동",
+    "en": "Mauritania",
+    "ko": "모리타니아"
+  },
+  {
+    "iso2": "MZ",
+    "iso3": "MOZ",
+    "isonumber": 508,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Mazambique",
+    "ko": "모잠비크"
+  },
+  {
+    "iso2": "ME",
+    "iso3": "MNE",
+    "isonumber": 499,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Montenegro",
+    "ko": "몬테네그로"
+  },
+  {
+    "iso2": "MS",
+    "iso3": "MSR",
+    "isonumber": 500,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "Montserrat",
+    "ko": "몬트세랫"
+  },
+  {
+    "iso2": "MD",
+    "iso3": "MDA",
+    "isonumber": 498,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Moldova",
+    "ko": "몰도바"
+  },
+  {
+    "iso2": "MV",
+    "iso3": "MDV",
+    "isonumber": 462,
+    "encont": "Asia",
+    "kocont": "아시아",
+    "ko2cont": "아주",
+    "en": "Maldives",
+    "ko": "몰디브"
+  },
+  {
+    "iso2": "MT",
+    "iso3": "MLT",
+    "isonumber": 470,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Malta",
+    "ko": "몰타"
+  },
+  {
+    "iso2": "MN",
+    "iso3": "MNG",
+    "isonumber": 496,
+    "encont": "Asia",
+    "kocont": "아시아",
+    "ko2cont": "아주",
+    "en": "Mongolia",
+    "ko": "몽골"
+  },
+  {
+    "iso2": "UM",
+    "iso3": "UMI",
+    "isonumber": 581,
+    "encont": "America",
+    "kocont": "미주",
+    "ko2cont": "미주",
+    "en": "United States Minor Outlying Islands",
+    "ko": "미국령 군소 제도"
+  },
+  {
+    "iso2": "VI",
+    "iso3": "VIR",
+    "isonumber": 850,
+    "encont": "America",
+    "kocont": "미주",
+    "ko2cont": "미주",
+    "en": "Virgin Islands (US)",
+    "ko": "미국령 버진아일랜드"
+  },
+  {
+    "iso2": "MM",
+    "iso3": "MMR",
+    "isonumber": 104,
+    "encont": "Asia",
+    "kocont": "아시아",
+    "ko2cont": "아주",
+    "en": "Myanmar",
+    "ko": "미얀마"
+  },
+  {
+    "iso2": "US",
+    "iso3": "USA",
+    "isonumber": 840,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "United States of America",
+    "ko": "미합중국"
+  },
+  {
+    "iso2": "VU",
+    "iso3": "VUT",
+    "isonumber": 548,
+    "encont": "Asia",
+    "kocont": "호주(오세아니아)",
+    "ko2cont": "아주",
+    "en": "Vanuatu",
+    "ko": "바누아투"
+  },
+  {
+    "iso2": "BH",
+    "iso3": "BHR",
+    "isonumber": 48,
+    "encont": "Middle East",
+    "kocont": "아시아",
+    "ko2cont": "중동",
+    "en": "Bahrain",
+    "ko": "바레인"
+  },
+  {
+    "iso2": "BB",
+    "iso3": "BRB",
+    "isonumber": 52,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "Barbados",
+    "ko": "바베이도스"
+  },
+  {
+    "iso2": "BS",
+    "iso3": "BHS",
+    "isonumber": 44,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "Bahamas",
+    "ko": "바하마"
+  },
+  {
+    "iso2": "BD",
+    "iso3": "BGD",
+    "isonumber": 50,
+    "encont": "Asia",
+    "kocont": "아시아",
+    "ko2cont": "아주",
+    "en": "Bangladesh",
+    "ko": "방글라데시"
+  },
+  {
+    "iso2": "BM",
+    "iso3": "BMU",
+    "isonumber": 60,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "Bermuda",
+    "ko": "버뮤다"
+  },
+  {
+    "iso2": "BJ",
+    "iso3": "BEN",
+    "isonumber": 204,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Benin",
+    "ko": "베냉"
+  },
+  {
+    "iso2": "VE",
+    "iso3": "VEN",
+    "isonumber": 862,
+    "encont": "America",
+    "kocont": "남아메리카",
+    "ko2cont": "미주",
+    "en": "Venezuela",
+    "ko": "베네수엘라볼리바르"
+  },
+  {
+    "iso2": "VN",
+    "iso3": "VNM",
+    "isonumber": 704,
+    "encont": "Asia",
+    "kocont": "아시아",
+    "ko2cont": "아주",
+    "en": "Vietnam",
+    "ko": "베트남"
+  },
+  {
+    "iso2": "BE",
+    "iso3": "BEL",
+    "isonumber": 56,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Belgium",
+    "ko": "벨기에"
+  },
+  {
+    "iso2": "BY",
+    "iso3": "BLR",
+    "isonumber": 112,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Belarus",
+    "ko": "벨라루스"
+  },
+  {
+    "iso2": "BZ",
+    "iso3": "BLZ",
+    "isonumber": 84,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "Belize",
+    "ko": "벨리즈"
+  },
+  {
+    "iso2": "BQ",
+    "iso3": "BES",
+    "isonumber": 535,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Bonaire",
+    "ko": "보네르섬"
+  },
+  {
+    "iso2": "BA",
+    "iso3": "BIH",
+    "isonumber": 70,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Bosnia-Herzegovina",
+    "ko": "보스니아헤르체고비나"
+  },
+  {
+    "iso2": "BW",
+    "iso3": "BWA",
+    "isonumber": 72,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Botswana",
+    "ko": "보츠와나"
+  },
+  {
+    "iso2": "BO",
+    "iso3": "BOL",
+    "isonumber": 68,
+    "encont": "America",
+    "kocont": "남아메리카",
+    "ko2cont": "미주",
+    "en": "Bolivia",
+    "ko": "볼리비아"
+  },
+  {
+    "iso2": "BI",
+    "iso3": "BDI",
+    "isonumber": 108,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Burundi",
+    "ko": "부룬디"
+  },
+  {
+    "iso2": "BF",
+    "iso3": "BFA",
+    "isonumber": 854,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Burkina Faso",
+    "ko": "부르키나파소"
+  },
+  {
+    "iso2": "BT",
+    "iso3": "BTN",
+    "isonumber": 64,
+    "encont": "Asia",
+    "kocont": "아시아",
+    "ko2cont": "아주",
+    "en": "Bhutan",
+    "ko": "부탄"
+  },
+  {
+    "iso2": "MP",
+    "iso3": "MNP",
+    "isonumber": 580,
+    "encont": "America",
+    "kocont": "호주(오세아니아)",
+    "ko2cont": "미주",
+    "en": "Northern Mariana Islands",
+    "ko": "북마리아나 군도"
+  },
+  {
+    "iso2": "MK",
+    "iso3": "MKD",
+    "isonumber": 807,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "North Macedonia",
+    "ko": "북마케도니아"
+  },
+  {
+    "iso2": "BG",
+    "iso3": "BGR",
+    "isonumber": 100,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Bulgaria",
+    "ko": "불가리아"
+  },
+  {
+    "iso2": "BR",
+    "iso3": "BRA",
+    "isonumber": 76,
+    "encont": "America",
+    "kocont": "남아메리카",
+    "ko2cont": "미주",
+    "en": "Brazil",
+    "ko": "브라질"
+  },
+  {
+    "iso2": "BN",
+    "iso3": "BRN",
+    "isonumber": 96,
+    "encont": "Asia",
+    "kocont": "아시아",
+    "ko2cont": "아주",
+    "en": "Brunei",
+    "ko": "브루나이"
+  },
+  {
+    "iso2": "WS",
+    "iso3": "WSM",
+    "isonumber": 882,
+    "encont": "Asia",
+    "kocont": "호주(오세아니아)",
+    "ko2cont": "아주",
+    "en": "Samoa",
+    "ko": "사모아"
+  },
+  {
+    "iso2": "SA",
+    "iso3": "SAU",
+    "isonumber": 682,
+    "encont": "Middle East",
+    "kocont": "아시아",
+    "ko2cont": "중동",
+    "en": "Saudi Arabia",
+    "ko": "사우디아라비아"
+  },
+  {
+    "iso2": "CY",
+    "iso3": "CYP",
+    "isonumber": 196,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Cyprus",
+    "ko": "사이프러스"
+  },
+  {
+    "iso2": "EH",
+    "iso3": "ESH",
+    "isonumber": 732,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Sahara Arab Democratic Republic",
+    "ko": "사하라 아랍민주공화국(서부사하라)"
+  },
+  {
+    "iso2": "SM",
+    "iso3": "SMR",
+    "isonumber": 674,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "San Marino",
+    "ko": "산마리노"
+  },
+  {
+    "iso2": "ST",
+    "iso3": "STP",
+    "isonumber": 678,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Sao Tome & Principe",
+    "ko": "상투메프린시페"
+  },
+  {
+    "iso2": "BL",
+    "iso3": "BLM",
+    "isonumber": 652,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Saint Barthelemy",
+    "ko": "생바르텔레미"
+  },
+  {
+    "iso2": "PM",
+    "iso3": "SPM",
+    "isonumber": 666,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "St. Pierre and Miquelon",
+    "ko": "생피에르·미클롱"
+  },
+  {
+    "iso2": "SN",
+    "iso3": "SEN",
+    "isonumber": 686,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Senegal",
+    "ko": "세네갈"
+  },
+  {
+    "iso2": "RS",
+    "iso3": "SRB",
+    "isonumber": 688,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Serbia",
+    "ko": "세르비아"
+  },
+  {
+    "iso2": "SC",
+    "iso3": "SYC",
+    "isonumber": 690,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Seychelles",
+    "ko": "세이셸"
+  },
+  {
+    "iso2": "SH",
+    "iso3": "SHN",
+    "isonumber": 654,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "St Helena",
+    "ko": "세인트 헬레나 섬"
+  },
+  {
+    "iso2": "LC",
+    "iso3": "LCA",
+    "isonumber": 662,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "St. Lucia",
+    "ko": "세인트루시아"
+  },
+  {
+    "iso2": "MF",
+    "iso3": "",
+    "isonumber": "",
+    "encont": "America",
+    "kocont": "미주",
+    "ko2cont": "미주",
+    "en": "Saint Martin",
+    "ko": "세인트마틴 섬"
+  },
+  {
+    "iso2": "VC",
+    "iso3": "VCT",
+    "isonumber": 670,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "St. Vincent & the Grenadines",
+    "ko": "세인트빈센트그레나딘"
+  },
+  {
+    "iso2": "KN",
+    "iso3": "KNA",
+    "isonumber": 659,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "St. Kitts-Nevis",
+    "ko": "세인트키츠네비스"
+  },
+  {
+    "iso2": "SO",
+    "iso3": "SOM",
+    "isonumber": 706,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Somalia",
+    "ko": "소말리아"
+  },
+  {
+    "iso2": "SB",
+    "iso3": "SLB",
+    "isonumber": 90,
+    "encont": "Asia",
+    "kocont": "호주(오세아니아)",
+    "ko2cont": "아주",
+    "en": "Solomon Islands",
+    "ko": "솔로몬제도"
+  },
+  {
+    "iso2": "SD",
+    "iso3": "SDN",
+    "isonumber": 736,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Sudan",
+    "ko": "수단"
+  },
+  {
+    "iso2": "SR",
+    "iso3": "SUR",
+    "isonumber": 740,
+    "encont": "America",
+    "kocont": "남아메리카",
+    "ko2cont": "미주",
+    "en": "Suriname",
+    "ko": "수리남"
+  },
+  {
+    "iso2": "LK",
+    "iso3": "LKA",
+    "isonumber": 144,
+    "encont": "Asia",
+    "kocont": "아시아",
+    "ko2cont": "아주",
+    "en": "Sri Lanka",
+    "ko": "스리랑카"
+  },
+  {
+    "iso2": "SE",
+    "iso3": "SWE",
+    "isonumber": 752,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Sweden",
+    "ko": "스웨덴"
+  },
+  {
+    "iso2": "CH",
+    "iso3": "CHE",
+    "isonumber": 756,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Swiss",
+    "ko": "스위스"
+  },
+  {
+    "iso2": "ES",
+    "iso3": "ESP",
+    "isonumber": 724,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Spain",
+    "ko": "스페인"
+  },
+  {
+    "iso2": "SK",
+    "iso3": "SVK",
+    "isonumber": 703,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Slovakia",
+    "ko": "슬로바키아"
+  },
+  {
+    "iso2": "SI",
+    "iso3": "SVN",
+    "isonumber": 705,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Slovenia",
+    "ko": "슬로베니아"
+  },
+  {
+    "iso2": "SY",
+    "iso3": "SYR",
+    "isonumber": 760,
+    "encont": "Middle East",
+    "kocont": "아시아",
+    "ko2cont": "중동",
+    "en": "Syria",
+    "ko": "시리아"
+  },
+  {
+    "iso2": "SL",
+    "iso3": "SLE",
+    "isonumber": 694,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Sierra Leone",
+    "ko": "시에라리온"
+  },
+  {
+    "iso2": "SX",
+    "iso3": "SXM",
+    "isonumber": 534,
+    "encont": "America",
+    "kocont": "미주",
+    "ko2cont": "미주",
+    "en": "Sint Maarten",
+    "ko": "신트마르턴"
+  },
+  {
+    "iso2": "SG",
+    "iso3": "SGP",
+    "isonumber": 702,
+    "encont": "Asia",
+    "kocont": "아시아",
+    "ko2cont": "아주",
+    "en": "Singapore",
+    "ko": "싱가포르"
+  },
+  {
+    "iso2": "AE",
+    "iso3": "ARE",
+    "isonumber": 784,
+    "encont": "Middle East",
+    "kocont": "아시아",
+    "ko2cont": "중동",
+    "en": "United Arab Emirates : UAE",
+    "ko": "아랍에미리트"
+  },
+  {
+    "iso2": "AW",
+    "iso3": "ABW",
+    "isonumber": 533,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "Aruba",
+    "ko": "아루바"
+  },
+  {
+    "iso2": "AM",
+    "iso3": "ARM",
+    "isonumber": 51,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Armenia",
+    "ko": "아르메니아"
+  },
+  {
+    "iso2": "AR",
+    "iso3": "ARG",
+    "isonumber": 32,
+    "encont": "America",
+    "kocont": "남아메리카",
+    "ko2cont": "미주",
+    "en": "Argentina",
+    "ko": "아르헨티나"
+  },
+  {
+    "iso2": "IS",
+    "iso3": "ISL",
+    "isonumber": 352,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Iceland",
+    "ko": "아이슬란드"
+  },
+  {
+    "iso2": "HT",
+    "iso3": "HTI",
+    "isonumber": 332,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "Haiti",
+    "ko": "아이티"
+  },
+  {
+    "iso2": "IE",
+    "iso3": "IRL",
+    "isonumber": 372,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Ireland",
+    "ko": "아일랜드"
+  },
+  {
+    "iso2": "AZ",
+    "iso3": "AZE",
+    "isonumber": 31,
+    "encont": "Europe",
+    "kocont": "아시아",
+    "ko2cont": "유럽",
+    "en": "Azerbaijan",
+    "ko": "아제르바이잔"
+  },
+  {
+    "iso2": "AF",
+    "iso3": "AFG",
+    "isonumber": 4,
+    "encont": "Asia",
+    "kocont": "아시아",
+    "ko2cont": "아주",
+    "en": "Afghanistan",
+    "ko": "아프가니스탄"
+  },
+  {
+    "iso2": "AD",
+    "iso3": "AND",
+    "isonumber": 20,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Andorra",
+    "ko": "안도라"
+  },
+  {
+    "iso2": "AL",
+    "iso3": "ALB",
+    "isonumber": 8,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Albania",
+    "ko": "알바니아"
+  },
+  {
+    "iso2": "DZ",
+    "iso3": "DZA",
+    "isonumber": 12,
+    "encont": "Middle East",
+    "kocont": "아프리카",
+    "ko2cont": "중동",
+    "en": "Algeria",
+    "ko": "알제리"
+  },
+  {
+    "iso2": "AO",
+    "iso3": "AGO",
+    "isonumber": 24,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Angola",
+    "ko": "앙골라"
+  },
+  {
+    "iso2": "AG",
+    "iso3": "ATG",
+    "isonumber": 28,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "Antigua and Barbuda",
+    "ko": "앤티가바부다"
+  },
+  {
+    "iso2": "AI",
+    "iso3": "AIA",
+    "isonumber": 660,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "Anguilla",
+    "ko": "앵귈라"
+  },
+  {
+    "iso2": "ER",
+    "iso3": "ERI",
+    "isonumber": 232,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Eritrea",
+    "ko": "에리트레아"
+  },
+  {
+    "iso2": "SZ",
+    "iso3": "SWZ",
+    "isonumber": 748,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Eswatini",
+    "ko": "에스와티니"
+  },
+  {
+    "iso2": "EE",
+    "iso3": "EST",
+    "isonumber": 233,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Estonia",
+    "ko": "에스토니아"
+  },
+  {
+    "iso2": "EC",
+    "iso3": "ECU",
+    "isonumber": 218,
+    "encont": "America",
+    "kocont": "남아메리카",
+    "ko2cont": "미주",
+    "en": "Ecuador",
+    "ko": "에콰도르"
+  },
+  {
+    "iso2": "ET",
+    "iso3": "ETH",
+    "isonumber": 231,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "ETC",
+    "ko": "에티오피아"
+  },
+  {
+    "iso2": "SV",
+    "iso3": "SLV",
+    "isonumber": 222,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "El Salvador",
+    "ko": "엘살바도르"
+  },
+  {
+    "iso2": "GB",
+    "iso3": "GBR",
+    "isonumber": 826,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "United Kingdom",
+    "ko": "영국"
+  },
+  {
+    "iso2": "AQ",
+    "iso3": "ATA",
+    "isonumber": 10,
+    "encont": "America",
+    "kocont": "남극",
+    "ko2cont": "미주",
+    "en": "British Antarctic Territory",
+    "ko": "영국령 남극지역"
+  },
+  {
+    "iso2": "VG",
+    "iso3": "VGB",
+    "isonumber": 92,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "British Virgin Islands",
+    "ko": "영국령 버진 아일랜드"
+  },
+  {
+    "iso2": "IO",
+    "iso3": "IOT",
+    "isonumber": 86,
+    "encont": "Asia",
+    "kocont": "아시아",
+    "ko2cont": "아주",
+    "en": "British Indian Ocean Territory",
+    "ko": "영국령 인도양 제도"
+  },
+  {
+    "iso2": "YE",
+    "iso3": "YEM",
+    "isonumber": 887,
+    "encont": "Middle East",
+    "kocont": "아시아",
+    "ko2cont": "중동",
+    "en": "Yemen",
+    "ko": "예멘"
+  },
+  {
+    "iso2": "OM",
+    "iso3": "OMN",
+    "isonumber": 512,
+    "encont": "Middle East",
+    "kocont": "아시아",
+    "ko2cont": "중동",
+    "en": "Oman",
+    "ko": "오만"
+  },
+  {
+    "iso2": "AT",
+    "iso3": "AUT",
+    "isonumber": 40,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Austria",
+    "ko": "오스트리아"
+  },
+  {
+    "iso2": "HN",
+    "iso3": "HND",
+    "isonumber": 340,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "Honduras",
+    "ko": "온두라스"
+  },
+  {
+    "iso2": "WF",
+    "iso3": "WLF",
+    "isonumber": 876,
+    "encont": "Asia",
+    "kocont": "호주(오세아니아)",
+    "ko2cont": "아주",
+    "en": "Wallis and Futuna",
+    "ko": "왈리스·퓌튀나"
+  },
+  {
+    "iso2": "JO",
+    "iso3": "JOR",
+    "isonumber": 400,
+    "encont": "Middle East",
+    "kocont": "아시아",
+    "ko2cont": "중동",
+    "en": "Jordan",
+    "ko": "요르단"
+  },
+  {
+    "iso2": "UG",
+    "iso3": "UGA",
+    "isonumber": 800,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Uganda",
+    "ko": "우간다"
+  },
+  {
+    "iso2": "UY",
+    "iso3": "URY",
+    "isonumber": 858,
+    "encont": "America",
+    "kocont": "남아메리카",
+    "ko2cont": "미주",
+    "en": "Uruguay",
+    "ko": "우루과이"
+  },
+  {
+    "iso2": "UZ",
+    "iso3": "UZB",
+    "isonumber": 860,
+    "encont": "Europe",
+    "kocont": "아시아",
+    "ko2cont": "유럽",
+    "en": "Uzbekistan",
+    "ko": "우즈베키스탄"
+  },
+  {
+    "iso2": "UA",
+    "iso3": "UKR",
+    "isonumber": 804,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Ukraine",
+    "ko": "우크라이나"
+  },
+  {
+    "iso2": "EU",
+    "iso3": "",
+    "isonumber": "",
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "European Union : EU",
+    "ko": "유럽연합"
+  },
+  {
+    "iso2": "IQ",
+    "iso3": "IRQ",
+    "isonumber": 368,
+    "encont": "Middle East",
+    "kocont": "아시아",
+    "ko2cont": "중동",
+    "en": "Iraq",
+    "ko": "이라크"
+  },
+  {
+    "iso2": "IR",
+    "iso3": "IRN",
+    "isonumber": 364,
+    "encont": "Middle East",
+    "kocont": "아시아",
+    "ko2cont": "중동",
+    "en": "Iran",
+    "ko": "이란"
+  },
+  {
+    "iso2": "IL",
+    "iso3": "ISR",
+    "isonumber": 376,
+    "encont": "Middle East",
+    "kocont": "아시아",
+    "ko2cont": "중동",
+    "en": "Israel",
+    "ko": "이스라엘"
+  },
+  {
+    "iso2": "EG",
+    "iso3": "EGY",
+    "isonumber": 818,
+    "encont": "Middle East",
+    "kocont": "아프리카",
+    "ko2cont": "중동",
+    "en": "Egypt",
+    "ko": "이집트"
+  },
+  {
+    "iso2": "IT",
+    "iso3": "ITA",
+    "isonumber": 380,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Italia",
+    "ko": "이탈리아"
+  },
+  {
+    "iso2": "IN",
+    "iso3": "IND",
+    "isonumber": 356,
+    "encont": "Asia",
+    "kocont": "아시아",
+    "ko2cont": "아주",
+    "en": "India",
+    "ko": "인도"
+  },
+  {
+    "iso2": "ID",
+    "iso3": "IDN",
+    "isonumber": 360,
+    "encont": "Asia",
+    "kocont": "아시아",
+    "ko2cont": "아주",
+    "en": "Indonesia",
+    "ko": "인도네시아"
+  },
+  {
+    "iso2": "JP",
+    "iso3": "JPN",
+    "isonumber": 392,
+    "encont": "Asia",
+    "kocont": "아시아",
+    "ko2cont": "아주",
+    "en": "Japan",
+    "ko": "일본"
+  },
+  {
+    "iso2": "JM",
+    "iso3": "JAM",
+    "isonumber": 388,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "Jamaica",
+    "ko": "자메이카"
+  },
+  {
+    "iso2": "ZM",
+    "iso3": "ZMB",
+    "isonumber": 894,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Zambia",
+    "ko": "잠비아"
+  },
+  {
+    "iso2": "JE",
+    "iso3": "JEY",
+    "isonumber": 832,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Bailiwick of Jersey",
+    "ko": "저지"
+  },
+  {
+    "iso2": "GQ",
+    "iso3": "GNQ",
+    "isonumber": 226,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Equatorial Guinea",
+    "ko": "적도기니"
+  },
+  {
+    "iso2": "KP",
+    "iso3": "PRK",
+    "isonumber": 408,
+    "encont": "Asia",
+    "kocont": "아시아",
+    "ko2cont": "아시아",
+    "en": "NorthKorea",
+    "ko": "조선민주주의인민공화국"
+  },
+  {
+    "iso2": "GE",
+    "iso3": "GEO",
+    "isonumber": 268,
+    "encont": "Europe",
+    "kocont": "아시아",
+    "ko2cont": "유럽",
+    "en": "Georgia",
+    "ko": "조지아"
+  },
+  {
+    "iso2": "CN",
+    "iso3": "CHN",
+    "isonumber": 156,
+    "encont": "Asia",
+    "kocont": "아시아",
+    "ko2cont": "아주",
+    "en": "China",
+    "ko": "중국"
+  },
+  {
+    "iso2": "CF",
+    "iso3": "CAF",
+    "isonumber": 140,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Central African Republic",
+    "ko": "중앙아프리카"
+  },
+  {
+    "iso2": "DJ",
+    "iso3": "DJI",
+    "isonumber": 262,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Djibouti",
+    "ko": "지부티"
+  },
+  {
+    "iso2": "GI",
+    "iso3": "GIB",
+    "isonumber": 292,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Gibraltar",
+    "ko": "지브롤터"
+  },
+  {
+    "iso2": "ZW",
+    "iso3": "ZWE",
+    "isonumber": 716,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Zimbabwe",
+    "ko": "짐바브웨"
+  },
+  {
+    "iso2": "TD",
+    "iso3": "TCD",
+    "isonumber": 148,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Chad",
+    "ko": "차드"
+  },
+  {
+    "iso2": "CZ",
+    "iso3": "CZE",
+    "isonumber": 203,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Czech",
+    "ko": "체코"
+  },
+  {
+    "iso2": "CL",
+    "iso3": "CHL",
+    "isonumber": 152,
+    "encont": "America",
+    "kocont": "남아메리카",
+    "ko2cont": "미주",
+    "en": "Chile",
+    "ko": "칠레"
+  },
+  {
+    "iso2": "CM",
+    "iso3": "CMR",
+    "isonumber": 120,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Cameroon",
+    "ko": "카메룬"
+  },
+  {
+    "iso2": "CV",
+    "iso3": "CPV",
+    "isonumber": 132,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Cape Verde",
+    "ko": "카보베르데"
+  },
+  {
+    "iso2": "KZ",
+    "iso3": "KAZ",
+    "isonumber": 398,
+    "encont": "Europe",
+    "kocont": "아시아",
+    "ko2cont": "유럽",
+    "en": "Kazakhstan",
+    "ko": "카자흐스탄"
+  },
+  {
+    "iso2": "QA",
+    "iso3": "QAT",
+    "isonumber": 634,
+    "encont": "Middle East",
+    "kocont": "아시아",
+    "ko2cont": "중동",
+    "en": "Qatar",
+    "ko": "카타르"
+  },
+  {
+    "iso2": "KH",
+    "iso3": "KHM",
+    "isonumber": 116,
+    "encont": "Asia",
+    "kocont": "아시아",
+    "ko2cont": "아주",
+    "en": "Cambodia",
+    "ko": "캄보디아"
+  },
+  {
+    "iso2": "CA",
+    "iso3": "CAN",
+    "isonumber": 124,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "Canada",
+    "ko": "캐나다"
+  },
+  {
+    "iso2": "KE",
+    "iso3": "KEN",
+    "isonumber": 404,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Kenya",
+    "ko": "케냐"
+  },
+  {
+    "iso2": "KY",
+    "iso3": "CYM",
+    "isonumber": 136,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "Cayman Islands",
+    "ko": "케이맨제도"
+  },
+  {
+    "iso2": "KM",
+    "iso3": "COM",
+    "isonumber": 174,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Comoros",
+    "ko": "코모로"
+  },
+  {
+    "iso2": "XK",
+    "iso3": "XKX",
+    "isonumber": 383,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Kosovo",
+    "ko": "코소보"
+  },
+  {
+    "iso2": "CR",
+    "iso3": "CRI",
+    "isonumber": 188,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "Costa Rica",
+    "ko": "코스타리카"
+  },
+  {
+    "iso2": "CC",
+    "iso3": "CCK",
+    "isonumber": 116,
+    "encont": "Asia",
+    "kocont": "아시아",
+    "ko2cont": "아시아",
+    "en": "Cocos (Keeling) Islands",
+    "ko": "코코스제도"
+  },
+  {
+    "iso2": "CI",
+    "iso3": "CIV",
+    "isonumber": 384,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Cote D'Ivoire",
+    "ko": "코트디부아르"
+  },
+  {
+    "iso2": "CO",
+    "iso3": "COL",
+    "isonumber": 170,
+    "encont": "America",
+    "kocont": "남아메리카",
+    "ko2cont": "미주",
+    "en": "Colombia",
+    "ko": "콜롬비아"
+  },
+  {
+    "iso2": "CG",
+    "iso3": "COG",
+    "isonumber": 178,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Congo",
+    "ko": "콩고"
+  },
+  {
+    "iso2": "CD",
+    "iso3": "COD",
+    "isonumber": 180,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Democratic Republic of Congo",
+    "ko": "콩고민주공화국"
+  },
+  {
+    "iso2": "CU",
+    "iso3": "CUB",
+    "isonumber": 192,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "Cuba",
+    "ko": "쿠바"
+  },
+  {
+    "iso2": "KW",
+    "iso3": "KWT",
+    "isonumber": 414,
+    "encont": "Middle East",
+    "kocont": "아시아",
+    "ko2cont": "중동",
+    "en": "Kuwait",
+    "ko": "쿠웨이트"
+  },
+  {
+    "iso2": "CK",
+    "iso3": "COK",
+    "isonumber": 184,
+    "encont": "Asia",
+    "kocont": "호주(오세아니아)",
+    "ko2cont": "아주",
+    "en": "Cook Islands",
+    "ko": "쿡제도"
+  },
+  {
+    "iso2": "CW",
+    "iso3": "CUW",
+    "isonumber": 531,
+    "encont": "America",
+    "kocont": "미주",
+    "ko2cont": "미주",
+    "en": "Curacao",
+    "ko": "퀴라소"
+  },
+  {
+    "iso2": "HR",
+    "iso3": "HRV",
+    "isonumber": 191,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Croatia",
+    "ko": "크로아티아"
+  },
+  {
+    "iso2": "CX",
+    "iso3": "CXR",
+    "isonumber": 162,
+    "encont": "Asia",
+    "kocont": "호주(오세아니아)",
+    "ko2cont": "아주",
+    "en": "Christmas Island",
+    "ko": "크리스마스섬"
+  },
+  {
+    "iso2": "KG",
+    "iso3": "KGZ",
+    "isonumber": 417,
+    "encont": "Europe",
+    "kocont": "아시아",
+    "ko2cont": "유럽",
+    "en": "Kyrgyz Republic",
+    "ko": "키르기즈공화국"
+  },
+  {
+    "iso2": "KI",
+    "iso3": "KIR",
+    "isonumber": 296,
+    "encont": "Asia",
+    "kocont": "호주(오세아니아)",
+    "ko2cont": "아주",
+    "en": "Kiribati",
+    "ko": "키리바시"
+  },
+  {
+    "iso2": "TJ",
+    "iso3": "TJK",
+    "isonumber": 762,
+    "encont": "Europe",
+    "kocont": "아시아",
+    "ko2cont": "유럽",
+    "en": "Tajikistan",
+    "ko": "타지키스탄"
+  },
+  {
+    "iso2": "TZ",
+    "iso3": "TZA",
+    "isonumber": 834,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Tanzania",
+    "ko": "탄자니아"
+  },
+  {
+    "iso2": "TH",
+    "iso3": "THA",
+    "isonumber": 764,
+    "encont": "Asia",
+    "kocont": "아시아",
+    "ko2cont": "아주",
+    "en": "Thailand",
+    "ko": "태국"
+  },
+  {
+    "iso2": "TC",
+    "iso3": "TCA",
+    "isonumber": 796,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "Turks and Caicos Islands",
+    "ko": "터크스·케이커스 제도"
+  },
+  {
+    "iso2": "TG",
+    "iso3": "TGO",
+    "isonumber": 768,
+    "encont": "Africa",
+    "kocont": "아프리카",
+    "ko2cont": "아프리카",
+    "en": "Togo",
+    "ko": "토고"
+  },
+  {
+    "iso2": "TO",
+    "iso3": "TON",
+    "isonumber": 776,
+    "encont": "Asia",
+    "kocont": "호주(오세아니아)",
+    "ko2cont": "아주",
+    "en": "Tonga",
+    "ko": "통가"
+  },
+  {
+    "iso2": "TM",
+    "iso3": "TKM",
+    "isonumber": 795,
+    "encont": "Europe",
+    "kocont": "아시아",
+    "ko2cont": "유럽",
+    "en": "Turkmenistan",
+    "ko": "투르크메니스탄"
+  },
+  {
+    "iso2": "TV",
+    "iso3": "TUV",
+    "isonumber": 798,
+    "encont": "Asia",
+    "kocont": "호주(오세아니아)",
+    "ko2cont": "아주",
+    "en": "Tuvalu",
+    "ko": "투발루"
+  },
+  {
+    "iso2": "TN",
+    "iso3": "TUN",
+    "isonumber": 788,
+    "encont": "Middle East",
+    "kocont": "아프리카",
+    "ko2cont": "중동",
+    "en": "Tunisia",
+    "ko": "튀니지"
+  },
+  {
+    "iso2": "TR",
+    "iso3": "TUR",
+    "isonumber": 792,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Republic of Turkiye",
+    "ko": "튀르키예공화국"
+  },
+  {
+    "iso2": "TT",
+    "iso3": "TTO",
+    "isonumber": 780,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "Trinidad & Tobago",
+    "ko": "트리니다드토바고"
+  },
+  {
+    "iso2": "PA",
+    "iso3": "PAN",
+    "isonumber": 591,
+    "encont": "America",
+    "kocont": "북아메리카",
+    "ko2cont": "미주",
+    "en": "Panama",
+    "ko": "파나마"
+  },
+  {
+    "iso2": "PY",
+    "iso3": "PRY",
+    "isonumber": 600,
+    "encont": "America",
+    "kocont": "남아메리카",
+    "ko2cont": "미주",
+    "en": "Paraguay",
+    "ko": "파라과이"
+  },
+  {
+    "iso2": "PK",
+    "iso3": "PAK",
+    "isonumber": 586,
+    "encont": "Asia",
+    "kocont": "아시아",
+    "ko2cont": "아주",
+    "en": "Pakistan",
+    "ko": "파키스탄"
+  },
+  {
+    "iso2": "PG",
+    "iso3": "PNG",
+    "isonumber": 598,
+    "encont": "Asia",
+    "kocont": "호주(오세아니아)",
+    "ko2cont": "아주",
+    "en": "Papua New Guinea : PNG",
+    "ko": "파푸아뉴기니"
+  },
+  {
+    "iso2": "PW",
+    "iso3": "PLW",
+    "isonumber": 585,
+    "encont": "Asia",
+    "kocont": "호주(오세아니아)",
+    "ko2cont": "아주",
+    "en": "Palau",
+    "ko": "팔라우"
+  },
+  {
+    "iso2": "PS",
+    "iso3": "PSE",
+    "isonumber": 275,
+    "encont": "Middle East",
+    "kocont": "아시아",
+    "ko2cont": "중동",
+    "en": "Palestine",
+    "ko": "팔레스타인"
+  },
+  {
+    "iso2": "FO",
+    "iso3": "FRO",
+    "isonumber": 234,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Faroe Islands",
+    "ko": "페로제도"
+  },
+  {
+    "iso2": "PE",
+    "iso3": "PER",
+    "isonumber": 604,
+    "encont": "America",
+    "kocont": "남아메리카",
+    "ko2cont": "미주",
+    "en": "Peru",
+    "ko": "페루"
+  },
+  {
+    "iso2": "PT",
+    "iso3": "PRT",
+    "isonumber": 620,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Portugal",
+    "ko": "포르투갈"
+  },
+  {
+    "iso2": "FK",
+    "iso3": "FLK",
+    "isonumber": 238,
+    "encont": "South America",
+    "kocont": "남아메리카",
+    "ko2cont": "남아메리카",
+    "en": "Falkland Islands",
+    "ko": "포클랜드 제도"
+  },
+  {
+    "iso2": "PL",
+    "iso3": "POL",
+    "isonumber": 616,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Poland",
+    "ko": "폴란드"
+  },
+  {
+    "iso2": "PR",
+    "iso3": "PRI",
+    "isonumber": 630,
+    "encont": "North America",
+    "kocont": "북아메리카",
+    "ko2cont": "북아메리카",
+    "en": "Puerto Rico",
+    "ko": "푸에르토리코"
+  },
+  {
+    "iso2": "FR",
+    "iso3": "FRA",
+    "isonumber": 250,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "France",
+    "ko": "프랑스"
+  },
+  {
+    "iso2": "GF",
+    "iso3": "GUF",
+    "isonumber": 254,
+    "encont": "America",
+    "kocont": "남아메리카",
+    "ko2cont": "미주",
+    "en": "French Guiana",
+    "ko": "프랑스령 기아나"
+  },
+  {
+    "iso2": "PF",
+    "iso3": "PYF",
+    "isonumber": 258,
+    "encont": "America",
+    "kocont": "호주(오세아니아)",
+    "ko2cont": "미주",
+    "en": "French Polynesia",
+    "ko": "프랑스령 폴리네시아"
+  },
+  {
+    "iso2": "FJ",
+    "iso3": "FJI",
+    "isonumber": 242,
+    "encont": "Asia",
+    "kocont": "호주(오세아니아)",
+    "ko2cont": "아주",
+    "en": "Fiji",
+    "ko": "피지"
+  },
+  {
+    "iso2": "FI",
+    "iso3": "FIN",
+    "isonumber": 246,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Finland",
+    "ko": "핀란드"
+  },
+  {
+    "iso2": "PH",
+    "iso3": "PHL",
+    "isonumber": 608,
+    "encont": "Asia",
+    "kocont": "아시아",
+    "ko2cont": "아주",
+    "en": "Philippines",
+    "ko": "필리핀"
+  },
+  {
+    "iso2": "PN",
+    "iso3": "PCN",
+    "isonumber": 612,
+    "encont": "America",
+    "kocont": "호주(오세아니아)",
+    "ko2cont": "미주",
+    "en": "Pitcairn Islands",
+    "ko": "핏케언 섬"
+  },
+  {
+    "iso2": "HU",
+    "iso3": "HUN",
+    "isonumber": 348,
+    "encont": "Europe",
+    "kocont": "유럽",
+    "ko2cont": "유럽",
+    "en": "Hungary",
+    "ko": "헝가리"
+  },
+  {
+    "iso2": "AU",
+    "iso3": "AUS",
+    "isonumber": 36,
+    "encont": "Asia",
+    "kocont": "호주(오세아니아)",
+    "ko2cont": "아주",
+    "en": "Australia",
+    "ko": "호주"
+  },
+  {
+    "iso2": "HK",
+    "iso3": "HKG",
+    "isonumber": 344,
+    "encont": "Asia",
+    "kocont": "아시아",
+    "ko2cont": "아주",
+    "en": "Hongkong",
+    "ko": "홍콩"
+  }
+]

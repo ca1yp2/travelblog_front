@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'onGothic';
+    font-weight: 400;
+    font-display: swap;
+    font-style: normal;
+    src: url('../fonts/KoddiUDOnGothic-Regular.eot');
+    src: url('../fonts/KoddiUDOnGothic-Regular.woff2') format('woff2'),
+         url('../fonts/KoddiUDOnGothic-Regular.woff') format('woff'),
+         url('../fonts/KoddiUDOnGothic-Regular.ttf') format('truetype'),
+         url('../fonts/KoddiUDOnGothic-Regular.svg') format('svg');
+}
+@font-face {
+    font-family: 'onGothic';
+    font-weight: 700;
+    font-display: swap;
+    font-style: normal;
+    src: url('../fonts/KoddiUDOnGothic-Bold.eot');
+    src: url('../fonts/KoddiUDOnGothic-Bold.woff2') format('woff2'),
+         url('../fonts/KoddiUDOnGothic-Bold.woff') format('woff'),
+         url('../fonts/KoddiUDOnGothic-Bold.ttf') format('truetype'),
+         url('../fonts/KoddiUDOnGothic-Bold.svg') format('svg');
+}
+@font-face {
+    font-family: 'onGothic';
+    font-weight: 800;
+    font-display: swap;
+    font-style: normal;
+    src: url('../fonts/KoddiUDOnGothic-ExtraBold.eot');
+    src: url('../fonts/KoddiUDOnGothic-ExtraBold.woff2') format('woff2'),
+         url('../fonts/KoddiUDOnGothic-ExtraBold.woff') format('woff'),
+         url('../fonts/KoddiUDOnGothic-ExtraBold.ttf') format('truetype'),
+         url('../fonts/KoddiUDOnGothic-ExtraBold.svg') format('svg');
+}

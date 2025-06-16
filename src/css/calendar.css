@@ -1,0 +1,22 @@
+.fc-day-sun a{
+    /* 일요일 */
+    color: #e91547 !important;
+}
+.fc-day-sat a{
+    color: #4655e5 !important;
+}
+.fc .fc-toolbar.fc-header-toolbar{
+    padding: 10px 20px;
+    font-size: 12px;
+    font-weight: 500;
+    background-color: #f0f0f0;
+    border-radius: 2px;
+}
+.fc .fc-button{
+    background-color: transparent;
+    color: #4655e5;
+    border: none;
+}
+.fc .fc-button:hover{
+    background-color: transparent;
+}
